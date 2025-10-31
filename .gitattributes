@@ -1,0 +1,6 @@
+*.md text diff
+*.kts text diff
+*.kt text diff
+*.xml text diff
+*.properties text diff
+*.pro text diff
